@@ -44,7 +44,8 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young naval captain assumes his first command and his initial run is destined to become a rite of passage.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The unnamed narrator, a young seaman, is the first mate on a ship in Southeast Asia. Despite being satisfied with his position, he decides, on a whim, to end his career and head back to Europe. As he awaits for passage in the port of Singapore, he is offered his first command: the captaincy of a ship left stranded without its commanding officer in a nearby port. His task is to bring the ship back to Singapore. This endeavor is destined to become a rite of passage for the young captain.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad&lt;/a&gt; wrote this novel in 1915, then serialized it in starting in September 1916, and finally published it in 1917. Its initial title was supposed to be &lt;em&gt;First Command&lt;/em&gt; and is based on his own experiences. The book deals with themes of maturity, wisdom, and experience. It is among Conrad’s most well-known novels and has served as the basis of two film adaptations.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/451</dc:source>
